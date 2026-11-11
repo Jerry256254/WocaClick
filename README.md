@@ -10,7 +10,7 @@ Selenium ani instalace ovladačů.
 
 ## Proč WocaClick
 
-Algoritmus WocaClick je navržený tak, aby jeho chování bylo **nero­zpoznatelné
+Algoritmus WocaClick je navržený tak, aby jeho chování bylo **nerozpoznatelné
 od lidské práce**:
 
 - trusted Qt vstupy (klik, klávesy i dvojklik mají `isTrusted: true`),
