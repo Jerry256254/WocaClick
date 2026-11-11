@@ -13,12 +13,12 @@ Selenium ani instalace ovladačů.
 Algoritmus WocaClick je navržený tak, aby jeho chování bylo **nerozpoznatelné
 od lidské práce**:
 
+- psaní po znacích včetně diakritiky (žádné hromadné vložení),
 - trusted Qt vstupy (klik, klávesy i dvojklik mají `isTrusted: true`),
 - žádný WebDriver/geckodriver, `navigator.webdriver` je `false`,
 - normální Chrome user-agent, Chrome-like Client Hints a persistentní profil,
-- viditelný animovaný kurzor v embedded prohlížeči,
-- lidské tempo, náhodné pauzy a přestávky,
-- diakritika přes IME,
+- viditelný animovaný kurzor a pulz při kliku,
+- lidské tempo: náhodné prodlevy mezi znaky, čtení zadání, delší pauzy a přestávky,
 - po každých 160 správných odpovědích „Uložit a odejít“ → forward → 2 WocaPoints.
 
 ## Stav projektu
