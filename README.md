@@ -36,9 +36,9 @@ od lidské práce**:
 
 ## Kredity
 
-**1 správné řešení = 1 kredit.** Kredity se dobíjejí jednorázovým 8znakovým kódem,
-který vytváří admin na **https://kuclab.org/wc/**. Kód lze použít pouze jednou
-a admin u něj nastavuje počet kreditů. V aplikaci je v horní liště stav
+**1 správné řešení = 1 kredit.** Kredity se dobíjejí jednorázovým 8znakovým
+kódem od tvůrců aplikace. Kód lze použít pouze jednou a u kódu je nastavený
+počet kreditů. V aplikaci je v horní liště stav
 **Kredity** a tlačítko **„Dobít“**. **Kódy vydávají pouze tvůrci aplikace;
 od nikoho jiného je neber.** Zůstatek je na serveru podle zařízení;
 aplikace ho před každou úlohou ověří a po správném řešení odečte.
@@ -49,7 +49,7 @@ Aktuální RPM pro **Fedora 44** je v
 [Releases](https://github.com/Jerry256254/WocaClick/releases/latest):
 
 ```bash
-sudo dnf install ./wocaclick-0.2.3-1.fc44.noarch.rpm
+sudo dnf install ./wocaclick-0.2.4-1.fc44.noarch.rpm
 ```
 
 Závislosti (`python3-pyside6`, `qt6-qtwebengine`) se doinstalují automaticky.
