@@ -57,7 +57,9 @@ Závislosti (`python3-pyside6`, `qt6-qtwebengine`) se doinstalují automaticky.
 ## Stav projektu
 
 RPM je vydané v Releases. Tento repozitář obsahuje informace o projektu,
-branding a licenci; zdrojový kód aplikace není zveřejněný.
+branding a licenci. **Z důvodů bezpečnosti a udržovatelnosti není WocaClick
+open source** – zdrojový kód aplikace zůstává soukromý a distribuuje se pouze
+jako RPM.
 
 ## Funkce
 
@@ -79,8 +81,10 @@ nemůže garantovat 100% neodhalitelnost. Podrobnosti v [TERMS.md](TERMS.md).
 ## Licence
 
 Vlastní implementace WocaClick je proprietary software – viz
-[LICENSE](LICENSE). Původní projekt `wocabee-bot` je pod MIT licencí; jeho
-notice je zachován v [LICENSE-MIT](LICENSE-MIT).
+[LICENSE](LICENSE). **Z důvodů bezpečnosti a udržovatelnosti není zdrojový
+kód aplikace open source**; distribuuje se pouze RPM. Původní projekt
+`wocabee-bot` je pod MIT licencí; jeho notice je zachován v
+[LICENSE-MIT](LICENSE-MIT).
 
 ## Made by
 
