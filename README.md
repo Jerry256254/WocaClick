@@ -18,6 +18,9 @@ od lidské práce**:
 - žádný WebDriver/geckodriver, `navigator.webdriver` je `false`,
 - normální Chrome user-agent, Chrome-like Client Hints a persistentní profil,
 - viditelný animovaný kurzor a pulz při kliku,
+- automatické odškrtávání kroků v bočním návodu,
+- automatické zapnutí 2 WocaPoints při Startu, pokud ho zapomeneš,
+- běh na pozadí (můžeš mezitím dělat něco jiného),
 - lidské tempo: náhodné prodlevy mezi znaky, čtení zadání, delší pauzy a přestávky,
 - po každých 160 správných odpovědích „Uložit a odejít“ → forward → 2 WocaPoints.
 
