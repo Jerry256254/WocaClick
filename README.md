@@ -28,13 +28,15 @@ od lidské práce**:
 - běh na pozadí (můžeš mezitím dělat něco jiného),
 - lidské tempo: náhodné prodlevy mezi znaky, čtení zadání, delší pauzy a přestávky,
 - po každých 160 správných odpovědích „Uložit a odejít“ → forward → 2 WocaPoints,
-- kredity: 1 klik = 1 kredit, jednorázové 8znakové kódy z admin panelu.
+- kredity: 1 správné řešení = 1 kredit, serverový balance zařízení, jednorázové 8znakové kódy z admin panelu.
 
 ## Kredity
 
-Každý klik = **1 kredit**. Kredity se dobíjejí jednorázovým 8znakovým kódem,
+**1 správné řešení = 1 kredit.** Kredity se dobíjejí jednorázovým 8znakovým kódem,
 který vytváří admin na **https://kuclab.org/wc/**. Kód lze použít pouze jednou
-a admin u něj nastavuje počet kreditů. V aplikaci je tlačítko **„Dobít kódy“**.
+a admin u něj nastavuje počet kreditů. V aplikaci je v horní liště stav
+**Kredity** a tlačítko **„Dobít“**. Zůstatek je na serveru podle zařízení;
+aplikace ho před každou úlohou ověří a po správném řešení odečte.
 
 ## Stav projektu
 
