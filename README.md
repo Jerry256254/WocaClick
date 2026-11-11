@@ -27,6 +27,8 @@ od lidské práce**:
 - automatické zapnutí 2 WocaPoints při Startu, pokud ho zapomeneš,
 - běh na pozadí (můžeš mezitím dělat něco jiného),
 - lidské tempo: náhodné prodlevy mezi znaky, čtení zadání, delší pauzy a přestávky,
+- jitter a objížďky myši, nepřesný cíl kliku a občasné viditelné přejetí,
+- občasné překlepy s Backspace a ověřením správného textu,
 - po každých 160 správných odpovědích „Uložit a odejít“ → forward → 2 WocaPoints,
 - kredity: 1 správné řešení = 1 kredit, serverový balance zařízení, jednorázové 8znakové kódy z admin panelu.
 
@@ -39,11 +41,21 @@ a admin u něj nastavuje počet kreditů. V aplikaci je v horní liště stav
 od nikoho jiného je neber.** Zůstatek je na serveru podle zařízení;
 aplikace ho před každou úlohou ověří a po správném řešení odečte.
 
+## Stažení
+
+Aktuální RPM pro **Fedora 44** je v
+[Releases](https://github.com/Jerry256254/WocaClick/releases/latest):
+
+```bash
+sudo dnf install ./wocaclick-0.2.0-1.fc44.noarch.rpm
+```
+
+Závislosti (`python3-pyside6`, `qt6-qtwebengine`) se doinstalují automaticky.
+
 ## Stav projektu
 
-Aplikace zatím **není veřejně dostupná**. Až bude hotový systém licencí a limitů,
-vyjde RPM pro Fedora. Tento repozitář obsahuje pouze informace o projektu a
-branding; zdrojový kód aplikace není zveřejněný.
+RPM je vydané v Releases. Tento repozitář obsahuje informace o projektu,
+branding a licenci; zdrojový kód aplikace není zveřejněný.
 
 ## Funkce
 
