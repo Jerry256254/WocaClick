@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="100" fill="#16B8DE"/>
+  <text x="256" y="252" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="112" font-weight="700" fill="#F5A623">Woca</text>
+  <text x="256" y="366" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="112" font-weight="700" fill="#FFFFFF">Click</text>
+  <rect x="120" y="396" width="272" height="14" rx="7" fill="#D93B3B"/>
+  <g transform="translate(388 120) scale(0.8)">
+    <ellipse cx="0" cy="0" rx="31" ry="42" fill="#F5A623" stroke="#1b1b1b" stroke-width="4"/>
+    <path d="M-31 -14 q31 12 62 0" fill="none" stroke="#D93B3B" stroke-width="8"/>
+    <path d="M-31 10 q31 12 62 0" fill="none" stroke="#D93B3B" stroke-width="8"/>
+    <ellipse cx="-19" cy="-33" rx="23" ry="11" fill="#fff" stroke="#1b1b1b" stroke-width="3" transform="rotate(-25 -19 -33)"/>
+    <ellipse cx="19" cy="-33" rx="23" ry="11" fill="#fff" stroke="#1b1b1b" stroke-width="3" transform="rotate(25 19 -33)"/>
+  </g>
+</svg>
