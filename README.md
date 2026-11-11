@@ -47,7 +47,7 @@ Aktuální RPM pro **Fedora 44** je v
 [Releases](https://github.com/Jerry256254/WocaClick/releases/latest):
 
 ```bash
-sudo dnf install ./wocaclick-0.2.0-1.fc44.noarch.rpm
+sudo dnf install ./wocaclick-0.2.1-1.fc44.noarch.rpm
 ```
 
 Závislosti (`python3-pyside6`, `qt6-qtwebengine`) se doinstalují automaticky.
