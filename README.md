@@ -35,7 +35,8 @@ od lidské práce**:
 **1 správné řešení = 1 kredit.** Kredity se dobíjejí jednorázovým 8znakovým kódem,
 který vytváří admin na **https://kuclab.org/wc/**. Kód lze použít pouze jednou
 a admin u něj nastavuje počet kreditů. V aplikaci je v horní liště stav
-**Kredity** a tlačítko **„Dobít“**. Zůstatek je na serveru podle zařízení;
+**Kredity** a tlačítko **„Dobít“**. **Kódy vydávají pouze tvůrci aplikace;
+od nikoho jiného je neber.** Zůstatek je na serveru podle zařízení;
 aplikace ho před každou úlohou ověří a po správném řešení odečte.
 
 ## Stav projektu
