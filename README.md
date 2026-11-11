@@ -2,6 +2,11 @@
   <img src="assets/wocaclick-logo.png" alt="WocaClick" width="480">
 </p>
 
+> **Experimentální projekt.** WocaClick není určen k běžnému používání ani
+> k získávání bodů. Slouží pouze k experimentování a testování. Používání je
+> zcela na vlastní riziko a na vlastní odpovědnost. Přečti si
+> [podmínky](TERMS.md) a [licenci](LICENSE).
+
 # WocaClick
 
 Moderní desktop nástroj pro procvičování **WocaBee** na **Fedora**. Běží
@@ -22,7 +27,14 @@ od lidské práce**:
 - automatické zapnutí 2 WocaPoints při Startu, pokud ho zapomeneš,
 - běh na pozadí (můžeš mezitím dělat něco jiného),
 - lidské tempo: náhodné prodlevy mezi znaky, čtení zadání, delší pauzy a přestávky,
-- po každých 160 správných odpovědích „Uložit a odejít“ → forward → 2 WocaPoints.
+- po každých 160 správných odpovědích „Uložit a odejít“ → forward → 2 WocaPoints,
+- kredity: 1 klik = 1 kredit, jednorázové 8znakové kódy z admin panelu.
+
+## Kredity
+
+Každý klik = **1 kredit**. Kredity se dobíjejí jednorázovým 8znakovým kódem,
+který vytváří admin na **https://kuclab.org/wc/**. Kód lze použít pouze jednou
+a admin u něj nastavuje počet kreditů. V aplikaci je tlačítko **„Dobít kódy“**.
 
 ## Stav projektu
 
@@ -39,10 +51,19 @@ branding; zdrojový kód aplikace není zveřejněný.
 
 ## Upozornění
 
-Používání je na vlastní riziko a na vlastní odpovědnost. Nástroj může porušovat
-podmínky WocaBee a vést k **zablokování účtu**. Autoři nenesou odpovědnost za
-ztrátu účtu, body ani jiné škody. Žádný nástroj nemůže garantovat 100%
-neodhalitelnost.
+WocaClick je experimentální software. Není určen k běžnému používání,
+k podvádění, k získávání bodů ani k nahrazení výuky. Používání je zcela na
+vlastní riziko a na vlastní odpovědnost. Nástroj může porušovat podmínky
+WocaBee a vést k **zablokování účtu**. Autoři nenesou žádnou odpovědnost za
+ztrátu účtu, body, data ani jiné škody; uživatel je plně odpovědný a odškodní
+autory. Nástroj se nesmí upravovat, distribuovat ani prodávat. Žádný nástroj
+nemůže garantovat 100% neodhalitelnost. Podrobnosti v [TERMS.md](TERMS.md).
+
+## Licence
+
+Vlastní implementace WocaClick je proprietary software – viz
+[LICENSE](LICENSE). Původní projekt `wocabee-bot` je pod MIT licencí; jeho
+notice je zachován v [LICENSE-MIT](LICENSE-MIT).
 
 ## Made by
 
