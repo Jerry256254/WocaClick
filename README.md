@@ -15,7 +15,8 @@ od lidské práce**:
 
 - trusted Qt vstupy (klik, klávesy i dvojklik mají `isTrusted: true`),
 - žádný WebDriver/geckodriver, `navigator.webdriver` je `false`,
-- normální Chrome user-agent a persistentní profil,
+- normální Chrome user-agent, Chrome-like Client Hints a persistentní profil,
+- viditelný animovaný kurzor v embedded prohlížeči,
 - lidské tempo, náhodné pauzy a přestávky,
 - diakritika přes IME,
 - po každých 160 správných odpovědích „Uložit a odejít“ → forward → 2 WocaPoints.
