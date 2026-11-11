@@ -1,5 +1,70 @@
+WocaClick Proprietary License
 Copyright (c) 2026 Jerry256254. All rights reserved.
 
-This repository contains project information and branding only. The WocaClick
-application, its algorithm and its source code are proprietary and are not
-published under an open-source license.
+This license applies to the WocaClick application, its Qt/PySide6 source code,
+documentation, branding, name, logo and distribution packages, except for the
+original wocabee-bot portions which remain under the MIT License in
+LICENSE-MIT.
+
+1. NO LICENSE GRANTED
+   No license, right or permission is granted to use, copy, modify, merge,
+   publish, distribute, sublicense, sell, rent, lease, lend, reverse engineer,
+   decompile, disassemble or create derivative works of WocaClick, except as
+   expressly required by applicable law.
+
+2. RESTRICTIONS
+   You may not remove or alter any copyright, license or proprietary notices.
+   You may not distribute, publish, mirror, bundle or sell WocaClick or any
+   part of it without prior written permission from the copyright holder.
+   You may not use WocaClick to build or distribute a competing product.
+
+3. EXPERIMENTAL SOFTWARE
+   WocaClick is an experimental project. It is not intended for normal use,
+   for cheating, for obtaining points or for replacing education. It is
+   provided solely for experimentation and testing. Any use is at your own
+   risk. You are solely responsible for complying with the terms of service
+   of WocaBee and any other third party.
+
+4. NO WARRANTY
+   WocaClick is provided "AS IS", without warranty of any kind, express or
+   implied, including but not limited to warranties of merchantability,
+   fitness for a particular purpose, title, non-infringement, accuracy,
+   availability or freedom from defects.
+
+5. ASSUMPTION OF RISK
+   You assume the entire risk of using, testing or being unable to use
+   WocaClick, including without limitation account suspension or termination,
+   loss of points, loss of data, loss of profits, legal claims by third
+   parties, and any damage to hardware or software.
+
+6. LIMITATION OF LIABILITY
+   To the maximum extent permitted by applicable law, the authors and
+   copyright holders shall not be liable for any direct, indirect,
+   incidental, special, consequential or punitive damages, or for any loss
+   of data, profits, goodwill or accounts, arising out of or related to
+   WocaClick, even if advised of the possibility of such damages.
+
+7. INDEMNIFICATION
+   You agree to indemnify, defend and hold harmless the authors and copyright
+   holders from and against any claims, damages, liabilities, costs and
+   expenses (including reasonable legal fees) arising out of your use,
+   modification, distribution or misuse of WocaClick, or your violation of
+   these terms or any third-party rights.
+
+8. NO SUPPORT
+   No support, maintenance, updates or fixes are guaranteed or provided.
+
+9. TERMINATION
+   Any breach of this license terminates all rights granted to you. You must
+   then stop using WocaClick and destroy all copies in your possession.
+
+10. GOVERNING LAW
+    This license is governed by the laws of the Czech Republic. The courts of
+    the Czech Republic shall have exclusive jurisdiction over any dispute.
+
+11. CONTACT
+    https://github.com/jerry256254
+
+The original wocabee-bot portions remain available under the MIT License in
+LICENSE-MIT. Nothing in this license limits rights that the MIT License grants
+to those original portions.
